@@ -26,11 +26,11 @@ http://www.templatemo.com/tm-466-cafe-house
   </head>
   <body>
     <!-- Preloader -->
-<!--    <div id="loader-wrapper">-->
-<!--      <div id="loader"></div>-->
-<!--      <div class="loader-section section-left"></div>-->
-<!--      <div class="loader-section section-right"></div>-->
-<!--    </div>-->
+    <div id="loader-wrapper">
+      <div id="loader"></div>
+      <div class="loader-section section-left"></div>
+      <div class="loader-section section-right"></div>
+    </div>
     <!-- End Preloader -->
     <?php
     include_once "parts/header.php";
